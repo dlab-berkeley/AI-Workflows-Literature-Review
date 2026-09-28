@@ -1,113 +1,90 @@
-# D-Lab [WorkshopName] Workshop
+# D-Lab AI Assisted Literature Review Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository contains the materials for D-Lab [WorkshopName] workshop. 
+This repository contains the materials for D-Lab's AI Assisted Literature Review workshop.
 
 ## Prerequisites
-We recommend attending [D-LabWorkshop1](D-LabWorkshop1Link),
-[D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops) prior to this workshop.
 
-Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
+No programming experience is required. Participants should arrive with a focused research question or topic from their own field. Familiarity with scholarly databases and basic prompting is helpful but not required.
+
+Check out D-Lab's [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what is running now, and review prerequisites.
 
 ## Workshop Goals
 
-In this workshop, we provide [WorkshopGoal]. First, we’ll cover [Aim1]. Then,
-we’ll explore [Aim2]. 
-
-_Only if necessary:_ If you are not familiar with material in
-[D-LabWorkshop1](D-LabWorkshop1Link), [D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops), we recommend attending those
-workshops first.
+In this workshop, we examine how AI can support literature discovery, screening, and early synthesis while keeping scholarly judgment visible. First, we compare citation mapping, semantic search, evidence synthesis, and general AI assistants. Then, participants test at least two tools on a research question and identify what still requires source-level verification.
 
 ## Learning Objectives
 
 After this workshop, you will be able to:
 
-- [LearningObjective1].
-- [LearningObjective2].
-- [LearningObjective3].
+- Distinguish literature-discovery tools, evidence-synthesis tools, citation-mapping tools, and general AI assistants.
+- Use AI to expand and organize a literature search without treating generated summaries as finished knowledge.
+- Compare results from multiple tools and identify missing papers, hidden disagreement, or unsupported confidence.
+- Draft a small synthesis that separates supported claims from questions requiring more reading.
 
 This workshop does not cover the following:
 
-- [NotCovered1]. These are covered in [D-LabWorkshopName](URL).
-- [NotCovered2]. These are covered in [D-LabWorkshopName](URL).
-
+- Full systematic-review protocols or discipline-specific reporting standards.
+- Exhaustive training in every literature-review platform.
+- Using generated citations or summaries without checking the underlying sources.
 
 ## Installation Instructions
 
-We will use [RStudio/Python] to go through the workshop materials, which requires installation of [Software]. Complete the following steps:
+No software installation is required. Participants need a web browser and access to the tools used during the session. The facilitator should confirm current account requirements and institutional guidance before the workshop.
 
-1. This step(s) details software to download, with a link.
-2. Download these workshop materials:
-    * Click the green "Code" button in the top right of the repository information.
-    * Click "Download Zip".
-    * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
-3. Optional: if you’re familiar with git, you can instead clone this repository by opening a terminal and entering [GitCloneCommand].
+Download these workshop materials:
 
-## Is [Language] not Working on Your Computer?
+1. Click the green **Code** button near the top of this repository.
+2. Click **Download ZIP**.
+3. Extract the ZIP file to a folder you can easily access.
+4. If you are familiar with Git, you can instead run `git clone https://github.com/dlab-berkeley/AI-Workflows-Literature-Review.git`.
 
-If you do not have [Language] installed and the materials loaded on your
-workshop by the time it starts, we *strongly* recommend using the UC Berkeley
-Datahub to run the materials for these lessons. You can access the DataHub by
-clicking the following button:
+## If a Workshop Tool Is Not Available
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
+Tool access and account requirements can change. If Litmaps, Elicit, or Consensus is unavailable, follow the same activity with another literature-discovery tool or a library database. Record which tool you used, inspect the underlying papers, and apply the same verification questions.
 
-The DataHub downloads this repository, along with any necessary packages, and
-allows you to run the materials in an RStudio instance on UC Berkeley's servers.
-No installation is necessary from your end - you only need an internet browser
-and a CalNet ID to log in. By using the DataHub, you can save your work and come
-back to it at any time. When you want to return to your saved work, just go
-straight to the [D-Lab DataHub](https://dlab.datahub.berkeley.edu), sign in, and
-you click on the `[Workshop-Name]` folder.
+## Run the Workshop
 
-If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
+Open [slides.md](slides.md) for the presentation and facilitator notes. The workshop follows this sequence:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
+1. Discuss what literature reviews accomplish in different disciplines.
+2. Compare Litmaps, Elicit, Consensus, and a general AI assistant.
+3. Use at least two tools on a focused research question.
+4. Complete the synthesis worksheet and discuss where the tools disagreed or overreached.
 
-By using this button, however, you cannot save your work.
+Facilitator plans are available in the `outputs` folder:
 
-
-## Run the Code
-
-Now that you have all the required software and materials, you need to run the code:
-
-Provide instructions on running the code, including how to load relevant software (RStudio, Jupyter Notebooks, etc.) and which file to open up. See other repositories for examples.
-
-Additionally, provide instructions on how to run code once it’s open (running Jupyter cells, RMarkdown cells, etc.).
+- [AI Assisted Literature Review workshop plan](outputs/literature-review-assisted-ai-workshop-updated.docx)
+- [Latinx AI Fellowship adaptation](outputs/latinx-ai-fellowship-workshop-outline-updated.docx)
 
 # Additional Resources
 
-Check out the following resources to learn more about [Workshop topics]:
+Check out the following resources to learn more about AI-assisted literature review:
 
-* [Resource1](LinkToResource1): _Explain Resource 1_
-* [Resource2](LinkToResource2): _Explain Resource 2_
-* [...]
-
+- [Litmaps](https://www.litmaps.com/): Explore papers through citation relationships.
+- [Elicit](https://elicit.com/): Search for research and organize evidence for screening and review.
+- [Consensus](https://consensus.app/): Ask research questions and inspect cited answers.
+- [D-Lab Prompt Engineering](https://github.com/dlab-berkeley/prompt-engineering): Practice clearer prompting and iterative review.
 
 # About the UC Berkeley D-Lab
 
-D-Lab works with Berkeley faculty, research staff, and students to advance data-intensive social science and humanities research. Our goal at D-Lab is to provide practical training, staff support, resources, and space to enable you to use R for your own research applications. Our services cater to all skill levels and no programming, statistical, or computer science backgrounds are necessary. We offer these services in the form of workshops, one-to-one consulting, and working groups that cover a variety of research topics, digital tools, and programming languages.  
+D-Lab works with Berkeley faculty, research staff, and students to advance data-intensive social science and humanities research. Our goal at D-Lab is to provide practical training, staff support, resources, and space to enable you to use data and computational methods in your own research. Our services cater to all skill levels, and no programming, statistical, or computer science background is necessary for many workshops.
 
-Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. You can view our [calendar](https://dlab.berkeley.edu/events/calendar) for upcoming events, learn about how to utilize our [consulting](https://dlab.berkeley.edu/consulting) and [data](https://dlab.berkeley.edu/data) services, and check out upcoming [workshops](https://dlab.berkeley.edu/events/workshops).
+Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more. You can view the [calendar](https://dlab.berkeley.edu/events/calendar), learn about [consulting](https://dlab.berkeley.edu/consulting) and [data services](https://dlab.berkeley.edu/data), and check upcoming [workshops](https://dlab.berkeley.edu/events/workshops).
 
-# Other D-Lab [Language] Workshops
-
-Here are other [Language] workshops offered by the D-Lab:
+# Other D-Lab AI Workshops
 
 ## Basic Competency
 
-**Provide a list of workshops here.**
+- [Getting Started with AI](https://github.com/dlab-berkeley/Getting-Started-With-AI)
+- [Prompt Engineering](https://github.com/dlab-berkeley/prompt-engineering)
 
-## Intermediate/Advanced Competency
+## Intermediate and Applied Workshops
 
-**Provide a list of workshops here.**
+- [Agentic AI for Knowledge Work](https://github.com/dlab-berkeley/Agentic-AI-Knowledge-Work)
+- [Agentic AI for Research Workflows](https://github.com/dlab-berkeley/Agentic-AI-Research-Workflows)
 
 # Contributors
 
-**Provide a list of contributors here, with links to their webpages (D-Lab or
-private).**
+Workshop materials developed for UC Berkeley D-Lab. Add named facilitators and contributors here as the workshop team is finalized.
