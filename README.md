@@ -45,7 +45,7 @@ Tool access and account requirements can change. If Litmaps, Elicit, or Consensu
 
 ## Run the Workshop
 
-Open [slides.md](slides.md) for the presentation and facilitator notes. The workshop follows this sequence:
+Open [this deck](slides/slides.md) for the presentation. The workshop follows this sequence:
 
 1. Discuss what literature reviews accomplish in different disciplines.
 2. Compare Litmaps, Elicit, Consensus, and a general AI assistant.
