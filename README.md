@@ -6,13 +6,13 @@ This repository contains the materials for D-Lab's AI Assisted Literature Review
 
 ## Prerequisites
 
-No programming experience is required. Participants should arrive with a focused research question or topic from their own field. Familiarity with scholarly databases and basic prompting is helpful but not required.
+No programming experience is required, however participants should arrive with a focused research question or topic from their own field or discipline. Additionally, familiarity with scholarly databases, searches and basic prompting is helpful but not required.
 
-Check out D-Lab's [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what is running now, and review prerequisites.
+Check out D-Lab's [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what is running now, and review any prerequisites.
 
 ## Workshop Goals
 
-In this workshop, we examine how AI can support literature discovery, screening, and early synthesis while keeping scholarly judgment visible. First, we compare citation mapping, semantic search, evidence synthesis, and general AI assistants. Then, participants test at least two tools on a research question and identify what still requires source-level verification.
+In this workshop, we examine how AI can support literature discovery, screening, and early synthesis while keeping scholarly control and judgement in the loop. First, we compare citation mapping, semantic search, evidence synthesis, and general AI assistants. Then, participants test at least two tools on a research question and identify what still requires more in-depth source-level verification.
 
 ## Learning Objectives
 
@@ -25,13 +25,12 @@ After this workshop, you will be able to:
 
 This workshop does not cover the following:
 
-- Full systematic-review protocols or discipline-specific reporting standards.
-- Exhaustive training in every literature-review platform.
-- Using generated citations or summaries without checking the underlying sources.
-
+- Full systematic or meta-review protocols, methods or discipline-specific litature reivew standards.
+- Exhaustive in-depth training in every literature-review platform or tool.
+- 
 ## Installation Instructions
 
-No software installation is required. Participants need a web browser and access to the tools used during the session. The facilitator should confirm current account requirements and institutional guidance before the workshop.
+No software installation is required. Participants are required to have a web browser and access to the tools used during the session. Additionally it would be helpful to create accounts for the following tools. 
 
 Download these workshop materials:
 
@@ -42,7 +41,7 @@ Download these workshop materials:
 
 ## If a Workshop Tool Is Not Available
 
-Tool access and account requirements can change. If Litmaps, Elicit, or Consensus is unavailable, follow the same activity with another literature-discovery tool or a library database. Record which tool you used, inspect the underlying papers, and apply the same verification questions.
+Tool access and account requirements can change. If Litmaps, Elicit, or Consensus is unavailable, follow the same activity with another literature-discovery tool or a library database of your choosing. 
 
 ## Run the Workshop
 
@@ -53,10 +52,6 @@ Open [slides.md](slides.md) for the presentation and facilitator notes. The work
 3. Use at least two tools on a focused research question.
 4. Complete the synthesis worksheet and discuss where the tools disagreed or overreached.
 
-Facilitator plans are available in the `outputs` folder:
-
-- [AI Assisted Literature Review workshop plan](outputs/literature-review-assisted-ai-workshop-updated.docx)
-- [Latinx AI Fellowship adaptation](outputs/latinx-ai-fellowship-workshop-outline-updated.docx)
 
 # Additional Resources
 
@@ -69,13 +64,13 @@ Check out the following resources to learn more about AI-assisted literature rev
 
 # About the UC Berkeley D-Lab
 
-D-Lab works with Berkeley faculty, research staff, and students to advance data-intensive social science and humanities research. Our goal at D-Lab is to provide practical training, staff support, resources, and space to enable you to use data and computational methods in your own research. Our services cater to all skill levels, and no programming, statistical, or computer science background is necessary for many workshops.
+D-Lab works with Berkeley faculty, research staff, and students to advance data-intensive social science and humanities research. Our goal at D-Lab is to provide practical training, staff support, resources, and space to enable you to use data science in your own research applications. Our services cater to all skill levels and no programming, statistical, or computer science backgrounds are necessary. We offer these services in the form of workshops, one-to-one consulting, and working groups that cover a variety of research topics, digital tools, and programming languages.
 
 Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more. You can view the [calendar](https://dlab.berkeley.edu/events/calendar), learn about [consulting](https://dlab.berkeley.edu/consulting) and [data services](https://dlab.berkeley.edu/data), and check upcoming [workshops](https://dlab.berkeley.edu/events/workshops).
 
 # Other D-Lab AI Workshops
 
-## Basic Competency
+## Basic AI Competency
 
 - [Getting Started with AI](https://github.com/dlab-berkeley/Getting-Started-With-AI)
 - [Prompt Engineering](https://github.com/dlab-berkeley/prompt-engineering)
@@ -87,4 +82,5 @@ Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more. You can vi
 
 # Contributors
 
-Workshop materials developed for UC Berkeley D-Lab. Add named facilitators and contributors here as the workshop team is finalized.
+-Jose Aguilar
+-CodeX
