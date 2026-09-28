@@ -18,8 +18,6 @@ Open with discussion. Ask two or three participants from different fields to des
 
 ## AI can help before it can conclude
 
-<img class="screenshot" src="assets/literature-review-cover.png" alt="An editorial illustration of a researcher reading papers alongside an abstract citation network">
-
 AI can help discover, screen, compare, and organize. Researchers still decide what matters and what the evidence supports.
 
 Note:
