@@ -82,5 +82,5 @@ Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more. You can vi
 
 # Contributors
 
--Jose Aguilar
--CodeX
+- Jose Aguilar
+- CodeX
