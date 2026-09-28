@@ -3,7 +3,7 @@
 <p class="subtitle">UC Berkeley D-Lab</p>
 
 Note:
-Welcome participants and ask them to keep one focused research question in mind. The workshop is about using AI to extend and organize a review while keeping disciplinary judgment visible.
+Welcome participants and ask them to keep one focused research question in mind, could be part of their current research or a budding topic. The workshop is about using AI tool to extend and organize a literature review while keeping disciplinary judgment in the loop.
 
 ---
 
