@@ -27,7 +27,7 @@ This workshop does not cover the following:
 
 - Full systematic or meta-review protocols, methods or discipline-specific litature reivew standards.
 - Exhaustive in-depth training in every literature-review platform or tool.
-- 
+
 ## Installation Instructions
 
 No software installation is required. Participants are required to have a web browser and access to the tools used during the session. Additionally it would be helpful to create accounts for the following tools. 
@@ -45,7 +45,7 @@ Tool access and account requirements can change. If Litmaps, Elicit, or Consensu
 
 ## Run the Workshop
 
-Open [this deck](slides/slides.md) for the presentation. The workshop follows this sequence:
+Open [this deck](https://docs.google.com/presentation/d/e/2PACX-1vR62t365fBN8UefCMMlCRnyr_LFaIehpU-YSTDI2_7kS4s-aAw8mND4cL0rFvC-8DED1emNKFC-V01q/pub?start=false&loop=false&delayms=60000) for the presentation. The workshop follows this sequence:
 
 1. Discuss what literature reviews accomplish in different disciplines.
 2. Compare Litmaps, Elicit, Consensus, and a general AI assistant.
