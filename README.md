@@ -46,7 +46,7 @@ Tool access and account requirements can change. If Litmaps, Elicit, or Consensu
 
 ## Run the Workshop
 
-Open [this deck](https://docs.google.com/presentation/d/e/2PACX-1vR62t365fBN8UefCMMlCRnyr_LFaIehpU-YSTDI2_7kS4s-aAw8mND4cL0rFvC-8DED1emNKFC-V01q/pub?start=false&loop=false&delayms=60000) for the presentation. The workshop follows this sequence:
+Open [this deck](https://dlab-berkeley.github.io/AI-Workflows-Literature-Review/slides/) for the presentation. The workshop follows this sequence:
 
 1. Discuss what literature reviews accomplish in different disciplines.
 2. Compare Litmaps, Elicit, Consensus, and a general AI assistant.
