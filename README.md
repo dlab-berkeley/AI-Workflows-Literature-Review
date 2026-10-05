@@ -1,5 +1,6 @@
 # D-Lab AI Assisted Literature Review Workshop
 
+[![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://dlab-berkeley.github.io/AI-Workflows-Literature-Review/slides/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the materials for D-Lab's AI Assisted Literature Review workshop.
