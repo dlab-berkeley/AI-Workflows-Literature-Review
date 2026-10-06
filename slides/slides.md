@@ -23,6 +23,8 @@ AI can help discover, screen, compare, and organize. We as researchers still dec
 Note:
 Frame the session as disciplined tool use. The tools can accelerate early work, but the review still depends on framing, source evaluation, interpretation, and disciplinary context.
 
+---
+
 ## Purpose
 
 Use a question from your own discipline to:
@@ -201,6 +203,8 @@ Ask:
 Note:
 Treat visual prominence as a discovery clue. It does not establish quality or relevance. Ask how citation practices, language, discipline, and the choice of seed paper might shape what appears.
 
+---
+
 ## Demo: Consensus website
 
 1. Enter the focused question
@@ -243,6 +247,8 @@ Ask what content can be accessed from each record. If filters are available, dem
 
 Note:
 Use these questions to slow down the move from discovery to evidence. Invite students to propose one inclusion criterion and one exclusion criterion based on the research question.
+
+---
 
 ## Consensus with Claude
 
@@ -391,6 +397,8 @@ Check every sentence against the matrix before revising the draft.
 
 Note:
 Ask fellows to paste the matrix itself, not a list of citations. After the AI responds, assign each fellow one claim to trace back through the matrix to the original source. Revise or remove any sentence that overstates the evidence.
+
+---
 
 ## Share and critique
 
