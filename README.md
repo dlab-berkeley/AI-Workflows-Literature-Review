@@ -84,4 +84,4 @@ Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more. You can vi
 # Contributors
 
 - Jose Aguilar
-- CodeX
+- Codex (GPT 6.1 Sol)
